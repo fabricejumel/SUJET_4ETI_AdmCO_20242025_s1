@@ -1,6 +1,6 @@
 ## Tamagotchi
 
-![Robot Target](Designer.jpg)
+![Robot Target](Designer.jpeg)
 
 Votre rendu sera un unique dépôt Git. Vous devrez définir et justifier l'organisation des branches, l'utilisation ou non de branches `dev`, de branches liées aux fonctionnalités, de branches distinctes pour les versions, ou l'utilisation de tags.
 
