@@ -29,13 +29,13 @@ Pour chaque Version, vous devrez :
 1. **Faire apparaitre votre arbre de commit dans le README, en expliquant les choix faits sur les branches et les tags**
 
 
-### Version 1 (8 points + bonus)
+### Version 1 (8 points + bonus) tag 1.0
 
 Le but est de cette version est de mettre en forme le code donné pour en créer un package (logique setup.py ou éventuellemnt pyproject.toml) en modifiant a le code donné . On mettra en complément  en place toute la logique de test unitaires. Idéallement on éparera le cycle de vie du tamagotchi et les interactions "clavier " que l'on a avec lui. On, rajoutera aussi  le stockage des resultats (nombre étape atteintes pour chaque partie. On pourra faire en sorte que le joeur s'dentifie avec son prenom.
 > [!IMPORTANT]
 > on relira l'attendu précédent. Pour chaque Version, vous devrez : ...
 
-### Version 2 ( 12 points + des bonus)
+### Version 2 ( 12 points + des bonus)  tag 2.0
 
 Le code proposé présente beaucoup d'améliorations possibles . En particulier on souhaite développer des stratégies de jeux par ordinateur. On proposera une version où l'ordinateur joue automatiquement en suivant une stratégie. On proposera au moins 2 stratégies que l'on peux chosir avec des arguments dans le code , une stragégie totalement aléatoire (avec tout de même des couts valides) et une stragégie ou l'ordinateur ne perd pas au coup suivant si ce n'était pas inéluctables. Vous pouvez ensuite si vous le souhaitez proposer d'autres améliorations . 
 . Il est important que tous les changements se reperercutent sur les tests unitaires . N'hésitez pas à améliorer/enrichir au passage vos tests unitaires si il n'était pas suffisamment complet sur la version 1.
