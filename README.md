@@ -1,11 +1,11 @@
 ## Tamagotchi
 
-![Robot Target](Designer.jpeg)
+![Robot Target](Designer_s.jpg)
 
 Votre rendu sera un unique dépôt Git. Vous devrez définir et justifier l'organisation des branches, l'utilisation ou non de branches `dev`, de branches liées aux fonctionnalités, de branches distinctes pour les versions, ou l'utilisation de tags.
 
 
-Testez le code [morpion_v3.py](./tamagotchi.py)
+Testez le code [tamagotchi.py](./tamagotchi.py)
 
 Dans le cas ou le sujet ne vous paraitrez peu clair ou erronné, proposez des changements en les justifiant pour pouvoir répondre aux questions .
 Même si rien ne marche, remplissez au mieux les attendus en étant clair sur ce qui marche et ce qui ne marche pas (cf la suite).
