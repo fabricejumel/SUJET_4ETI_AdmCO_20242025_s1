@@ -26,7 +26,7 @@ Pour chaque Version, vous devrez :
 1. **Proposer l'installation du paquet à partir de gitlab avec une procedure dans le README**
 1.  **Proposer l'installation du paquet à partir de test pypi avec une procédure dans le README**
 1. **Automatiser les phases de test et de création du .whl sur GitLab avec un fichier ci** 
-1. Faire apparaitre votre arbre de commit dans le README, en expliquant les choix faits sur les branches et les tags
+1. **Faire apparaitre votre arbre de commit dans le README, en expliquant les choix faits sur les branches et les tags**
 
 
 ### Version 1 (8 points + bonus)
